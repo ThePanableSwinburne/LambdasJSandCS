@@ -1,0 +1,16 @@
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\bin\Debug\net5.0\Question 4.exe
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\bin\Debug\net5.0\Question 4.deps.json
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\bin\Debug\net5.0\Question 4.runtimeconfig.json
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\bin\Debug\net5.0\Question 4.runtimeconfig.dev.json
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\bin\Debug\net5.0\Question 4.dll
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\bin\Debug\net5.0\Question 4.pdb
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\Question 4.csproj.AssemblyReference.cache
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\Question 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\Question 4.AssemblyInfoInputs.cache
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\Question 4.AssemblyInfo.cs
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\Question 4.csproj.CoreCompileInputs.cache
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\Question 4.dll
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\refint\Question 4.dll
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\Question 4.pdb
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\Question 4.genruntimeconfig.cache
+C:\Users\dhanr\source\repos\ConsoleApp2\Question 4\obj\Debug\net5.0\ref\Question 4.dll
